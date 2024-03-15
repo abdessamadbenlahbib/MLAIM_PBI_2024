@@ -1,0 +1,5 @@
+Where python
+
+Environment Variables
+
+C:\Users\Notebook\AppData\Local\Programs

@@ -1,0 +1,33 @@
+pip install manager
+
+pip install pandas
+
+pip install matplotlib
+
+pip install jupyter
+
+
+jupyter notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where python
+
+Environment Variables
+
+
+https://helpdeskgeek.com/windows-11/how-to-completely-uninstall-python-on-your-windows-pc/
+https://www.partitionwizard.com/partitionmanager/uninstall-python.html
+C:\Users\Notebook\AppData\Local\Programs
