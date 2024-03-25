@@ -1,0 +1,12 @@
+Devoir 2: Cleaning Data with Power Query
+
+
+
+1.	Charger le fichier "Exercice.csv".
+2.	Supprimer les lignes qui contiennent des valeurs vides.
+3.	Supprimer les doublons.
+4.	Diviser la colonne "FullName" en deux colonnes, "FirstName" et "SecondName".
+5.	Unifier la forme des dates de la colonne "BirthDate".
+6.	Ajouter une nouvelle colonne nommée "Age" qui calcule l'âge des étudiants en se basant sur leurs dates de naissance "BirthDate".
+7.	Ajouter une nouvelle colonne nommée "Accepted" qui accepte deux valeurs, Yes ou No. Si l’âge de l’étudiant ne dépasse pas 21 ans et sa ville natale est FES, alors sa candidature pour avoir une bourse d’étude de master est acceptée, sinon, elle est refusée.
+8.	Sauvegarder le résultat.
